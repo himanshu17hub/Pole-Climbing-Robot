@@ -1,10 +1,10 @@
-<h1>🦾 **Pole Climbing Robot**</h1>
+<h1>Pole Climbing Robot</h1>
 
 A compact robotic system designed for vertical pole climbing, surveillance, and remote inspection applications.
 
 <img width="2208" height="1647" alt="Gemini_Generated_Image_chaawgchaawgchaa" src="https://github.com/user-attachments/assets/389e28c1-477d-466a-bac7-1665ad86e4f7" />
 
-**Overview**
+<h1>Overview</h1>
 
 The Pole Climbing Robot is a mechanically driven robotic system developed to climb vertical poles while maintaining stable contact with the pole surface.
 
@@ -12,7 +12,7 @@ The project focuses on developing a compact and reliable mechanism that can be u
 
 The robot combines mechanical design, CAD modelling, motor-driven motion, electronics, and wireless control into a single integrated system.
 
-**Purpose of the Project**
+<h1> Purpose of the Project </h1>
 
 Climbing poles manually for surveillance, monitoring, maintenance, or inspection can be:
 
@@ -23,7 +23,8 @@ Physically demanding
 Limited by accessibility
 
 The purpose of this project is to develop a robotic alternative that can climb vertical poles remotely, providing a platform that can potentially carry cameras or sensors for monitoring and inspection tasks
-**Objectives**
+
+<h1> Objectives </h1>
 
 The major objectives of the project were:
 
@@ -35,7 +36,7 @@ Enable remote operation of the robot.
 Build and test a physical prototype.
 Identify and improve issues related to slippage, alignment, and stability.
 
-**Working Principle**
+<h1> Working Principle </h1>
 
 The robot uses a wheel-based gripping mechanism to maintain contact with the pole.
 
@@ -58,7 +59,7 @@ The gripping arrangement helps maintain stability.
 The ESP32 controls the motor system.
 The robot can be operated remotely.
 
-**Project Structure**
+<h1> Project Structure </h1>
 
 The project was developed through multiple stages:
 
@@ -92,7 +93,7 @@ Stability
 Grip
 Weight distribution
 
-**My Contribution**
+<h1> My Contribution </h1>
 
 My primary contribution focused on the mechanical design and development of the robot.
 
@@ -112,7 +113,7 @@ Worked with the team to improve the climbing performance.
 System Integration
 Worked on the integration of the mechanical system with the motors, motor drivers, and ESP32-based control system.
 
-**Tools & Technologies Used**
+<h1> Tools & Technologies Used </h1>
 
 Mechanical Design
 SolidWorks
@@ -133,7 +134,8 @@ Mechanical Stability
 Motor Selection
 Prototype Testing
 
-**Project Showcase**
+<h1> Project Showcase </h1>
+
 CAD Design
 //// Image /// 
 Prototype 
@@ -141,12 +143,13 @@ Prototype
 Climbing Demonstration 
 //// Image //// 
 //// Video //// 
-**Applications**
+<h1> Applications </h1>
+
 - Surveillance 
 - Visual Monitoring 
 - Industrial Inspection maintenance Support
 
-**Impact**
+<h1> Impact </h1>
 
 The project demonstrates how a compact robotic system can be used to perform tasks on vertical structures without requiring direct human access.
 
@@ -164,7 +167,7 @@ Electronics integration
 Testing and troubleshooting
 Design iteration
 
-**Future Scope**
+<h1> Future Scope </h1>
 
 The current prototype provides a foundation for developing a more advanced autonomous climbing robot.
 
@@ -196,7 +199,7 @@ Variable Pole Diameter
 
 Develop an adaptive gripping mechanism capable of working across a wider range of pole diameters.
 
-**Team**
+<h1> Team </h1>
 
 **Project: Pole Climbing Robot
 Institution: Indian Institute of Technology Ropar
