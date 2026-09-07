@@ -42,16 +42,6 @@ The robot uses a wheel-based gripping mechanism to maintain contact with the pol
 
 The basic working process is:
 
-        Pole
-         │
-    ┌────┼────┐
-    │    │    │
-   ⚙️    │    ⚙️
-    │    │    │
-    └────┼────┘
-         │
-      Robot
-       Frame
 The wheels maintain contact with the pole.
 Geared motors provide the required torque.
 Motor rotation produces upward or downward movement.
@@ -137,12 +127,15 @@ Prototype Testing
 <h1> Project Showcase </h1>
 
 CAD Design
-//// Image /// 
-Prototype 
-//// Image/// 
+<img width="905" height="745" alt="WhatsApp Image 2026-09-07 at 11 18 45 AM (1)" src="https://github.com/user-attachments/assets/b08c9a33-7a86-4222-a5d3-568ca8bb900c" />
+  
 Climbing Demonstration 
-//// Image //// 
-//// Video //// 
+
+
+
+https://github.com/user-attachments/assets/2ebde190-9db9-49b9-865f-807b1c04fa08
+
+
 <h1> Applications </h1>
 
 - Surveillance 
@@ -206,7 +199,7 @@ Institution: Indian Institute of Technology Ropar
 Department: Mechanical Engineering**
 
 Team Members
-Himanshu Verma — Mechanical Design & Prototype Development. 
-Dev Agarwal - Mechanical Design & Electronics integration. 
-Surender Sahu - Coding, Control and Debugging. 
+Himanshu Verma — Mechanical Design & Prototype Development                            
+Dev Agarwal - Mechanical Design & Electronics integration                       
+Surender Sahu - Coding, Control and Debugging                     
 
