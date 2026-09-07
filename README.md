@@ -1,5 +1,7 @@
-POLE CLIMBING ROBOT 
+**POLE CLIMBING ROBOT** 
+
 A compact robotic system designed for vertical pole climbing, surveillance, and remote inspection applications.
+
 <img width="2208" height="1647" alt="Gemini_Generated_Image_chaawgchaawgchaa" src="https://github.com/user-attachments/assets/389e28c1-477d-466a-bac7-1665ad86e4f7" />
 
 **Overview**
@@ -9,6 +11,7 @@ The Pole Climbing Robot is a mechanically driven robotic system developed to cli
 The project focuses on developing a compact and reliable mechanism that can be used for surveillance, monitoring, and future inspection applications, reducing the need for humans to physically climb poles and potentially improving safety and accessibility.
 
 The robot combines mechanical design, CAD modelling, motor-driven motion, electronics, and wireless control into a single integrated system.
+
 **Purpose of the Project**
 
 Climbing poles manually for surveillance, monitoring, maintenance, or inspection can be:
